@@ -3,7 +3,7 @@ This repo contains some usefule scripts for aseprite editor — https://www.asep
 
 Script execution can be attached to hotkeys
 * decreasing/increasing brush
-* generator script to generate a set of images based on random and metadata info from the layers
+* generator script to generate a set of images based on random and metadata info from the layers(and add unique number)
 
 
 ## Layers example
